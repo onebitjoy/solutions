@@ -1,0 +1,9 @@
+solution
+----------
+sudo -i
+usermod -aG sudo <username>
+reboot
+
+confirm using
+----------
+sudo -i
